@@ -1,8 +1,10 @@
 # ml-localisation
 A simple attempt at learning how to use tensorflow for localisation.
 
+It is recommended to have CUDA enabled, and significant system memory available for training.
+
 # Instructions
-```sh
+```bash
 mkdir validation
 mkdir training
 cargo run --release #generate the validation and training data

@@ -1,0 +1,5 @@
+target/
+training/
+validation/
+training.csv
+validation.csv
